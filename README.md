@@ -1,5 +1,6 @@
 # 🐍 Python Zero to Hero Bootcamp –  Udemy (José Portilla)
-This repository documents my learning journey while completing the **Python Zero to Hero** course by **José Portilla** on Udemy. This repo contains my notes, exercises, practice scripts, and mini-projects built while learning Python fundamentals, data structures, object-oriented programming, and more.  
+This repository serves as a practical portfolio of my work while completing the Python course
+It compiles structured notes, interactive notebooks, problem-solving challenges, and applied projects that demonstrate my growth from foundational Python skills to advanced programming techniques.
  
 ---
 
